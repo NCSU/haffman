@@ -1,0 +1,7 @@
+*.o
+qtgraph
+Makefile
+moc_*
+ui_*
+*.pro.user
+a.out
